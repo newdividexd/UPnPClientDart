@@ -1,0 +1,13 @@
+name: upnp_api
+version: 1.1.0
+description: Universal Plug and Play API.
+
+homepage: https://github.com/newdividexd/UPnPClientDart
+repository: https://github.com/newdividexd/UPnPClientDart
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  xml: ^5.0.0
+  http: ^0.13.0
